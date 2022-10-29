@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan Raykar</h1>
 <h3 align="center">A student developer from India</h3>
+![hero3](https://user-images.githubusercontent.com/62028116/198816997-b34a5bb2-bc3e-4df3-9359-4af3bc231677.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdarshan17&label=Profile%20views&color=0e75b6&style=flat" alt="iamdarshan17" /> </p>
 
