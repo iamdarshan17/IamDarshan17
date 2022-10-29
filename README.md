@@ -22,7 +22,7 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://twitter.com/darshanraykardz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="darshanraykardz" height="30" width="40" /></a>
+<a href="https://twitter.com/darshanraykardz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshanraykardz" height="30" width="40" /></a>
 <a href="https://instagram.com/darshan_raykar_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan_raykar_official" height="30" width="40" /></a>
 </p>
 
